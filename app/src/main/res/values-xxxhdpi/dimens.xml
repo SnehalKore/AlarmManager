@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    //Margins and Padding :
+    <dimen name="margin_2_dp">3dp</dimen>
+    <dimen name="margin_6_dp">7dp</dimen>
+    <dimen name="margin_8_dp">9dp</dimen>
+    <dimen name="margin_9_dp">10dp</dimen>
+    <dimen name="margin_10_dp">11dp</dimen>
+    <dimen name="margin_12_dp">14dp</dimen>
+    <dimen name="margin_13_dp">15dp</dimen>
+    <dimen name="margin_14_dp">16dp</dimen>
+    <dimen name="margin_16_dp">18dp</dimen>
+    <dimen name="screen_margin">18dp</dimen>
+    <dimen name="margin_18_dp">20dp</dimen>
+    <dimen name="margin_20_dp">23dp</dimen>
+    <dimen name="margin_24_dp">27dp</dimen>
+    <dimen name="margin_27_dp">30dp</dimen>
+    <dimen name="margin_30_dp">34dp</dimen>
+    <dimen name="margin_35_dp">39dp</dimen>
+    <dimen name="margin_40_dp">45dp</dimen>
+    <dimen name="margin_45_dp">51dp</dimen>
+    <dimen name="margin_56_dp">63dp</dimen>
+    <dimen name="margin_129_dp">145dp</dimen>
+    <dimen name="margin_135_dp">152dp</dimen>
+    <dimen name="margin_210_dp">236dp</dimen>
+
+    //Widths :
+    <dimen name="width_32_dp">36dp</dimen>
+    <dimen name="width_100_dp">113dp</dimen>
+    <dimen name="width_102_dp">115dp</dimen>
+    <dimen name="width_120_dp">135dp</dimen>
+    <dimen name="width_134_dp">151dp</dimen>
+    <dimen name="width_137_dp">154dp</dimen>
+    <dimen name="width_150_dp">169dp</dimen>
+    <dimen name="width_180_dp">203dp</dimen>
+    <dimen name="width_170_dp">195dp</dimen>
+    <dimen name="width_208_dp">234dp</dimen>
+    <dimen name="width_250_dp">281dp</dimen>
+    <dimen name="width_256_dp">288dp</dimen>
+    <dimen name="width_297_dp">334dp</dimen>
+
+    //Heights :
+    <dimen name="height_29_dp">33dp</dimen>
+    <dimen name="height_30_dp">34dp</dimen>
+    <dimen name="height_39_dp">44dp</dimen>
+    <dimen name="height_40_dp">45dp</dimen>
+    <dimen name="height_50_dp">56dp</dimen>
+    <dimen name="height_57_dp">64dp</dimen>
+    <dimen name="height_58_dp">65dp</dimen>
+    <dimen name="height_59_dp">66dp</dimen>
+    <dimen name="height_80_dp">90dp</dimen>
+    <dimen name="height_90_dp">102dp</dimen>
+    <dimen name="height_130_dp">146dp</dimen>
+    <dimen name="height_193_dp">217dp</dimen>
+    <dimen name="height_196_dp">220dp</dimen>
+    <dimen name="height_216_dp">243dp</dimen>
+    <dimen name="height_242_dp">272dp</dimen>
+    <dimen name="height_330_dp">371dp</dimen>
+    <dimen name="height_342_dp">343dp</dimen>
+    <dimen name="height_386_dp">388dp</dimen>
+
+</resources>

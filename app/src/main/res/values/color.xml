@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey_text_color">#717171</color>
+    <color name="grey_text_color_medium">#949494</color>
+    <color name="sale_color">#961c1c</color>
+    <color name="black_opacity_90_color">#E6000000</color>
+    <color name="black_opacity_88_color">#E01d1d1d</color>
+    <color name="black_opacity_60_color">#99000000</color>
+    <color name="black_opacity_80_color">#CC000000</color>
+    <color name="brown_opacity_70_color">#B39C2317</color>
+    <color name="white_opacity_80_color">#CCFFFFFF</color>
+    <color name="divider">#CCCCCC</color>
+    <color name="light_grey_header_color">#efefef</color>
+    <color name="grey_color_circle_border">#e4e4e4</color>
+    <color name="light_grey_text_color">#707070</color>
+    <color name="edit_text_normal_color">#cfcfcf</color>
+    <color name="grey_checkout_background">#f0eff5</color>
+    <color name="grey_button_border">#b9b9b9</color>
+    <color name="pink_background">#F4E8E8</color>
+    <color name="pink">#ffb4d9</color>
+    <color name="golden">#9e943d</color>
+    <color name="grey">#f4f4f4</color>
+    <color name="pink_wedding">#f6d9d0</color>
+    <color name="pink_light">#e43fa4</color>
+    <color name="orange">#ff6a00</color>
+    <color name="blue_fav_color">#b4d5fa</color>
+</resources>
